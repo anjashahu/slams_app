@@ -15,6 +15,7 @@ The files in this repo include:
 * [country_mapping_cleaned.csv](https://github.com/anjashahu/slams_app/blob/main/data/cleaned/country_mapping_cleaned.csv): Cleaned data connecting IOC codes to their respective countries and continents
 
 ## Accessing app
+![](/images/app_image.png)
 The Shiny app can be accessed [here](https://anjashahu.shinyapps.io/slams_app/?_ga=2.206605523.1123555495.1615949088-1369193878.1615949088).
 
 ## Data

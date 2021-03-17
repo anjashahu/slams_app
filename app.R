@@ -192,7 +192,7 @@ ui <- fluidPage(
             # Generate short description describing app
             p("Modify the inputs below to find out the number of (non-unique)",
               "participants in grand slams by country or continent.",
-              "This app uses WTA and ATP grand slam data, obtained from",
+              "The raw tennis data for this app was obtained from",
               a("JeffSackmann.", 
                 href = "https://github.com/JeffSackmann")),
             

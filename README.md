@@ -6,7 +6,7 @@ A simple app to investigate the performance of countries and continents at WTA a
 * [Accessing app](#accessing-app)
 * [Data](#data)
 
-## Navigating Repo
+## Navigating repo
 The files in this repo include:
 * [app.R](https://github.com/anjashahu/slams_app/blob/main/app.R): Code for Shiny app
 * [download_script.R](https://github.com/anjashahu/slams_app/blob/main/data/download_script.R): Code for downloading and cleaning raw tennis data
@@ -14,7 +14,7 @@ The files in this repo include:
 * [wta_slams_cleaned.csv](https://github.com/anjashahu/slams_app/blob/main/data/cleaned/wta_slams_cleaned.csv): Cleaned WTA slams data since 1968
 * [country_mapping_cleaned.csv](https://github.com/anjashahu/slams_app/blob/main/data/cleaned/country_mapping_cleaned.csv): Cleaned data connecting IOC codes to their respective countries and continents
 
-## Accessing App
+## Accessing app
 The Shiny app can be accessed [here](https://anjashahu.shinyapps.io/slams_app/?_ga=2.206605523.1123555495.1615949088-1369193878.1615949088).
 
 ## Data
